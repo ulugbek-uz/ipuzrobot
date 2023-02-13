@@ -1,5 +1,5 @@
 <?php
-$sql = new mysqli('localhost','shoxcoder0_ip','root','shoxcoder0_ip');
+$sql = new mysqli('localhost','db_user','root','db_name');
 $data ="CREATE TABLE IF NOT EXISTS ban(chatid VARCHAR(10))";
 mysqli_query($sql,$data);
 
