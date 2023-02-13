@@ -1,5 +1,5 @@
 <?php
-$sql = new mysqli('localhost','shoxcoder0_ip','root','shoxcoder0_ip');
+$sql = new mysqli('localhost','db_user','root','db_name');
 $data = "SELECT * FROM `stat`";
 $res = mysqli_query($sql,$data);
 $rb =  mysqli_fetch_all($res);
