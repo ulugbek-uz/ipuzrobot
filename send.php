@@ -1,5 +1,5 @@
 <?php
-$token = '5878752443:AAECgAuSWjwmHtO7Y-efnve5jG0IHdS8cXo';
+$token = 'token';
 error_reporting(0);
 
 ob_start();
