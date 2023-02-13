@@ -1,6 +1,6 @@
 <?php
 //  Bot token 
-$token = '5878752443:AAECgAuSWjwmHtO7Y-efnve5jG0IHdS8cXo';
+$token = 'Token';
 $urlb = "/var/www/m_2289/data/www/mycoder.ga/ip/";
 error_reporting(0);
 
