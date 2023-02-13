@@ -9,4 +9,5 @@
 **Ishlatish qollanmasi YouTube ga joylanadi !**
 
 Telegram : *_@UlugbekCoder_*
+\n
 Instagaram : *_@mycoder.uz*
