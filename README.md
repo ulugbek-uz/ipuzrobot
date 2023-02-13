@@ -10,4 +10,4 @@
 
 **Telegram : _@UlugbekCoder_**
 
-**Instagaram : _@mycoder.uz**
+**Instagaram : _@mycoder.uz_**
