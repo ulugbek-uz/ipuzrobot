@@ -8,6 +8,6 @@
 
 **Ishlatish qollanmasi YouTube ga joylanadi !**
 
-Telegram : *_@UlugbekCoder_*
-\n
-Instagaram : *_@mycoder.uz*
+**Telegram : _@UlugbekCoder_**
+
+**Instagaram : _@mycoder.uz**
